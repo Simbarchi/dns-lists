@@ -1,1 +1,2 @@
+theage.com.au
 *.theage.com.au
