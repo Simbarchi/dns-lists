@@ -1,2 +1,4 @@
 theage.com.au
 *.theage.com.au
+abc.net.au
+*.abc.net.au
